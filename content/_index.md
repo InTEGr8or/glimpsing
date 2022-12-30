@@ -6,7 +6,6 @@ draft: flase
 
 [List of AI Tools](ai-sites)
 
-<!-- {{< peek "ai-sites" >}} -->
 
 ```r
 Beautiful landing for tech website design,Archemedes, leonardo da Vinci, Nicolai Tesla, Jules Verne, neon, steam punk, Antikathira device, silocon microcircuit, ux/ui, ux, ui --ar 3:2 --v 4 --q 2 
