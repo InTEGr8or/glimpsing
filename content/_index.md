@@ -1,8 +1,10 @@
 ---
-title: "Glimpsing"
+title: "Glimpsing AI"
 date: 2022-12-18T10:57:45-08:00
 draft: flase
 ---
+
+> All I is AI
 
 [List of AI Tools](ai-sites)
 
